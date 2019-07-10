@@ -5,7 +5,7 @@ A simple "game" that draws walls and balls within CS1graphics, with simple physi
 
 To run a simple version of the game with fewer walls and obstacles, open "BallGame.py" with idle and run the module. To run the full game with more walls and obstacles, open "myGame.py" in idle and run the module
 
-It's hard to call this a game since the user as no input, but for the sake of writing this the main ball which collect's points will be referred to as the "player's ball"
+It's hard to call this a game since the user as no input, but for the sake of writing this the main ball which collects points will be referred to as the "player's ball"
 
 When they player's ball (yellow) comes into contact with a wall it will collide and bounce semi-realistically away from the wall. 
 
